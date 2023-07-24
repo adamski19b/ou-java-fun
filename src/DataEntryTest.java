@@ -36,7 +36,7 @@ public class DataEntryTest {
     @Test
     public void testEnterPartnerDetails() {
 
-    // Post Condition - Assert that an instance of DataEntry, Supplier, DirectRecord and EnvSchema is instantiated
+    // Post Condition - Assert that an instance of DataEntry, Supplier, SupplyChainRecord and EnvSchema is instantiated
 
     DataEntry dataEntry = new DataEntry();
 
